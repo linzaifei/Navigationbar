@@ -128,7 +128,7 @@ self.interactivePopGestureRecognizer.enabled = NO;
 ```
 
 
-
+![image](https://github.com/linzaifei/Navigationbar/blob/master/ZFNavigationContoller/push_true.gif)
 
 
 
