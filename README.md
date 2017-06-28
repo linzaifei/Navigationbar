@@ -45,6 +45,8 @@ if (self.viewControllers.count) {
 self.interactivePopGestureRecognizer.delegate = nil;
 ```
 
+![image](https://github.com/linzaifei/Navigationbar/blob/master/ZFNavigationContoller/push_false.gif)
+
 设置代理后发现手势可以使用了,但是又出现了一个新的问题,当对根控制器使用手势后,在点击控制器上面的控件就不能再点击出现"假死"状态即App是激活状态但是界面控制器不能点击,所以我们设置手势代理方法为self <br>
 
 ```
